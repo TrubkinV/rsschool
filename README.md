@@ -1,1 +1,1 @@
-https://TrubkinV.github.io/rsschool-cv/cv
+https://TrubkinV.github.io/rsschool-cv/
