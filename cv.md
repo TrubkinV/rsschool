@@ -4,3 +4,4 @@
 **Programming skills** _None._
 **Education** Higher education(*BSUIR, The faculty of telecommunications*)
 **Language skills** B1 level
+![My awesome photo](C:\Users\wys\Downloads\photo_2022-06-05_19-39-55)
