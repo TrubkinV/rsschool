@@ -10,6 +10,4 @@
 
 **Language skills** B1 level;
 
-![My awesome photo](/uploads/14c634e8dbe5710f5bfc8db895bc604c/image.png).
-
-![image](/uploads/14c634e8dbe5710f5bfc8db895bc604c/image.png)
+![My awesome photo](blob:https://web.telegram.org/664d8962-1d07-463b-8316-6f05190ad934).
