@@ -1,13 +1,13 @@
 **Name** Vladislav Trubkin;
 
-**Contacts** e-mail: vladiktru@gmail.com, Phone number: (029) 2438981, Discord: wys#2275 @TrubkinV;
+**Contacts** e-mail: vladiktru@gmail.com, Phone number: 375292438981, Discord: @TrubkinV;
 
-**About myself** Desire to develop and gain experience in programming;
+**Summary** Desire to develop and gain experience in programming;
 
-**Programming skills** _None._;
+**Code** _console.log('Hello, World!')_;
 
 **Education** Higher education(*BSUIR, The faculty of telecommunications*);
 
-**Language skills** B1 level;
+**Language skills** English level A2;
 
-![My awesome photo](https://sun9-west.userapi.com/sun9-8/s/v1/if2/Ckgu-q4F-xQue3M4EqZe_koAkqjLel16jhoLPNoC68zoXfVSPisEWnJiwrW4afDMUwecFaoFbuIPiHHOI8qg0y7k.jpg?size=638x799&quality=96&type=album).
+![My photo](https://sun9-east.userapi.com/sun9-42/s/v1/if2/3IqgaI5SQj_nxEHES9b1ZQ3ce-y42UouovNviz3ZgAsI6rOgkGxgYoKkNXf38rNyBUzcJt_48f3cUfd47gDH2h1L.jpg?size=1620x2160&quality=96&type=album).
